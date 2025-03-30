@@ -7,7 +7,8 @@
 * \brief     Cpp Embedded Standard definitions
 * \details
 *
-* \see       https://en.wikipedia.org/wiki/Digital_signal_processing
+* \see       https://en.wikipedia.org/wiki/Embedded_C
+*            https://en.wikibooks.org/wiki/Embedded_Systems/C_Programming
 *            https://github.com/cpredef/predef
 ******************************************************************************/
 
